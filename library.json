@@ -15,8 +15,8 @@
   ],
   "dependencies": [
     {
-      "name": "ESPAsyncWebServer-esphome",
-      "version": "^3.1.0"
+      "name": "ESPAsyncWebServer",
+      "version": "^3.7.2"
     }
   ],
   "version": "2.3.0",
